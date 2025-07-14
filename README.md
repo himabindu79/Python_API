@@ -20,7 +20,7 @@ A simple RESTful API built with Flask and SQLite for managing travel destination
 - Flask SQLAlchemy
 - SQLite
 
-##📬 Example API Endpoints
+## 📬 Example API Endpoints
 
 - GET / – Welcome message
 - GET /destinations – List all destinations
